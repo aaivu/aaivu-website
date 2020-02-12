@@ -1,2 +1,2 @@
 # home_website
-Initial Page of NLP_Centre
+Initial Page of Aaivu Organization.
