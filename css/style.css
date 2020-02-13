@@ -668,6 +668,7 @@ h6 {
 }
 
 #services .box {
+  height: 450px;
   padding: 30px;
   position: relative;
   overflow: hidden;
